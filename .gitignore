@@ -1,5 +1,6 @@
 *.meta
 *.log
+.vs/
 Library/metadata/
 Library/ShaderCache/
 Temp/
